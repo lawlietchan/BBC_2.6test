@@ -7605,28 +7605,3 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u699_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:18px;
-  height:18px;
-}
-#u699 {
-  border-width:0px;
-  position:absolute;
-  left:609px;
-  top:674px;
-  width:18px;
-  height:18px;
-}
-#u700 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:1px;
-  width:14px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
