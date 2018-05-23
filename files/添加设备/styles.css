@@ -557,3 +557,56 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u3705_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:380px;
+  height:46px;
+}
+#u3705 {
+  border-width:0px;
+  position:absolute;
+  left:435px;
+  top:8px;
+  width:380px;
+  height:46px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#1E1E1E;
+}
+#u3706 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:6px;
+  width:360px;
+  word-wrap:break-word;
+}
+#u3707_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  height:2px;
+}
+#u3707 {
+  border-width:0px;
+  position:absolute;
+  left:375px;
+  top:22px;
+  width:60px;
+  height:1px;
+}
+#u3708 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:56px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
